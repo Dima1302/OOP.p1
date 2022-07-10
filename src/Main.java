@@ -7,7 +7,6 @@ public class Main {
         germiona.print();
         ron.print();
 
-
         SlytherinStudent drako = new SlytherinStudent("Драко Малфой", 90, 65, 100, 90, 95, 75, 100);
         SlytherinStudent graham = new SlytherinStudent("Грэхэм Монтегю", 55, 35, 65, 70, 75, 80, 35);
         SlytherinStudent gregory = new SlytherinStudent("Грегори Гойл", 65, 70, 55, 75, 20, 45, 65);
